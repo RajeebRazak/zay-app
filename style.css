@@ -1,0 +1,97 @@
+.container{
+    width: 100%;
+    height: 100%;
+}
+.header{
+    width: 100%;
+    height: 50px;
+    background-color: #000;
+}
+.fa-solid{
+    margin-left: 50px;
+    margin-top: 20px;
+    position: absolute;
+    
+}
+.mail-id{
+    margin-left: 70px;
+    margin-top: 20px;
+    position: absolute;
+}
+.seconddiv{
+    width: 100%;
+    height: 100px;
+    background-color: #b0abab;
+    margin-top:-5px; 
+
+}
+.firstheading{
+    margin-left: 17px;
+    margin-top: 15px;
+    position: absolute;
+    font-size: 48px;
+    font-family: sans-serif;
+    color: #59ab6e;
+    font-weight: 500;
+
+    
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-left: 17px;
+}
+li{
+   list-style: none;
+   margin-top: 30px;
+
+}
+.corsel-item{
+    display: flex;
+    flex:wrap; ;
+    background-color:rgb(226, 224, 224);
+    padding-left: 20px;
+    padding-right: 20px;
+
+
+}
+.img-ds{
+   text-align: left;
+   margin-left: 10%;
+   margin-top: 38px;
+   margin-bottom: 20px;
+  
+
+   
+}
+.corsel-item img{
+    width: 350px;
+    height: 300px;
+    
+   
+  
+}
+.shop-head{
+    text-align: center;
+}
+.shopping-card{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.card-img-top{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.shopping-card-review{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.card-img-top-1{
+    width: 200px;
+    height: 200px;
+    
+}
